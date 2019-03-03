@@ -1,0 +1,28 @@
+{
+  "name": "asyncstorage-emporium-adapter",
+  "version": "0.0.0",
+  "description": "React Native AsyncStorage adapter for Emporium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayrdeaton/AsyncStorage-Emporium-Adapter.git"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "AsyncStorage",
+    "Adapter",
+    "Emporium",
+    "Data",
+    "Store"
+  ],
+  "author": "Jay Deaton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayrdeaton/AsyncStorage-Emporium-Adapter/issues"
+  },
+  "homepage": "https://github.com/jayrdeaton/AsyncStorage-Emporium-Adapter#readme"
+}
